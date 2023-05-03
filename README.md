@@ -1,4 +1,4 @@
-### 👀
+I'm on <a rel="me" href="https://mas.to/@nmp">Mastodon</a>
 
 <!--
 **nmpeterson/nmpeterson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
